@@ -1,4 +1,4 @@
-# TRANSMISSION AND REFLECTION OF A GAUSSIAN BEAM AT OBLIQUE INCIDENCE ON A PLANE-LAYERED DIELECTRIC STRUCTURE
+# Transmission and reflection of a gaussian beam at oblique incidence on a plane-layered dielectric structure
 
 A Python-based utility tool designed to solve problem of transmission and reflection of a Gaussian beam obliquely incident on a plane-layered dielectric structure.
 
